@@ -1,8 +1,7 @@
 backports.ssl-match-hostname==3.5.0.1
 certifi==2015.11.20.1
 Django==1.7.1
-pushnote==0.0.1
-pushNotification==1.0.1
+pushnote==0.0.2
 pyzmq==2.2.0.1
 sockjs-tornado==1.0.0
 tornado==2.4.1
